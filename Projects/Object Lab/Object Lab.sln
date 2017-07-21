@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day Of Week", "Object Lab\Day Of Week.csproj", "{C60120E3-AC48-4736-926E-1C3D187BE5BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randomize Words", "Randomize Words\Randomize Words.csproj", "{22CC299A-935D-4220-A5D2-04349384A705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Big Factoriel", "Big Factoriel\Big Factoriel.csproj", "{9AD43368-0BDC-44B1-9140-563E741B076C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60120E3-AC48-4736-926E-1C3D187BE5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60120E3-AC48-4736-926E-1C3D187BE5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60120E3-AC48-4736-926E-1C3D187BE5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60120E3-AC48-4736-926E-1C3D187BE5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CC299A-935D-4220-A5D2-04349384A705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CC299A-935D-4220-A5D2-04349384A705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CC299A-935D-4220-A5D2-04349384A705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CC299A-935D-4220-A5D2-04349384A705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD43368-0BDC-44B1-9140-563E741B076C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD43368-0BDC-44B1-9140-563E741B076C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD43368-0BDC-44B1-9140-563E741B076C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD43368-0BDC-44B1-9140-563E741B076C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

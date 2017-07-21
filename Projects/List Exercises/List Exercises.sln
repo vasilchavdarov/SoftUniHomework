@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List Exercises", "List Exercises\List Exercises.csproj", "{A13B93CE-B5C8-4B79-A2AF-996CF54832A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Reversed Numbers", "Sum Reversed Numbers\Sum Reversed Numbers.csproj", "{1885198C-778F-4456-B3B0-6A44A9E56177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13B93CE-B5C8-4B79-A2AF-996CF54832A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13B93CE-B5C8-4B79-A2AF-996CF54832A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13B93CE-B5C8-4B79-A2AF-996CF54832A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13B93CE-B5C8-4B79-A2AF-996CF54832A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1885198C-778F-4456-B3B0-6A44A9E56177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1885198C-778F-4456-B3B0-6A44A9E56177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1885198C-778F-4456-B3B0-6A44A9E56177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1885198C-778F-4456-B3B0-6A44A9E56177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
