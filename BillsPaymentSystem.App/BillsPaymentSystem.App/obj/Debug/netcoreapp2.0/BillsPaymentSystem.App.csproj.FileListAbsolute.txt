@@ -1,0 +1,15 @@
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.deps.json
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.runtimeconfig.json
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.runtimeconfig.dev.json
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.dll
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.pdb
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.dll
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.pdb
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.AssemblyInfoInputs.cache
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.AssemblyInfo.cs
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.dll
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.pdb

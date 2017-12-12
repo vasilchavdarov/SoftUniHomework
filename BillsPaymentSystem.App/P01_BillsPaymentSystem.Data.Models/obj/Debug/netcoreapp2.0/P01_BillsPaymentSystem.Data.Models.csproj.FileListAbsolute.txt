@@ -1,0 +1,9 @@
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.deps.json
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfo.cs
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\Vasil\Documents\Visual Studio 2017\Projects\BillsPaymentSystem.App\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
